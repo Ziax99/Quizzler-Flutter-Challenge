@@ -1,7 +1,5 @@
 # Quizzler ❓
 
-## Our Goal
-
 Learnt Stateful and Stateless Widgets in Flutter.
 
 
