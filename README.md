@@ -1,1 +1,3 @@
-An App for quizzes and calculating score for android and ios
+# Quizzler-Flutter-Challenge
+
+A DBMS simulator includes B+ trees for query optimization
